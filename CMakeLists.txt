@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.1)
 
 # Define project name
-project(CSR_DCF)
+project(seg)
 
 # Find OpenCV, you may need to set OpenCV_DIR variable
 # to the absolute path to the directory containing OpenCVConfig.cmake file
